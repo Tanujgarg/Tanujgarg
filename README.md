@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanujgarg" alt="tanujgarg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/h_tanu_garg" target="blank"><img src="https://img.shields.io/twitter/follow/h_tanu_garg?logo=twitter&style=for-the-badge" alt="h_tanu_garg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thisistanujgarg" target="blank"><img src="https://img.shields.io/twitter/follow/thisistanujgarg?logo=twitter&style=for-the-badge" alt="thisistanujgarg" /></a> </p>
 
 - 📫 How to reach me **mailtotanujgarg@gmail.com**
 
