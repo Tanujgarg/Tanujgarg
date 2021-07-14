@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/26033957" alt="Tanuj Garg"></h1>
 <h1 align="center">Hi 👋, I'm Tanuj Garg</h1>
 <h3 align="center">Solution Architect & DevOps Engineer</h3>
 
