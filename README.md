@@ -21,6 +21,7 @@
 <a href="https://stackoverflow.com/users/13441523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13441523" height="30" width="40" /></a>
 <a href="https://fb.com/thisistanujgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisistanujgarg" height="30" width="40" /></a>
 <a href="https://instagram.com/thisistanujgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisistanujgarg" height="30" width="40" /></a>
+<a href="https://wa.me/919996629961?text=Hello Tanuj, I found you on GitHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+919996629961" height="30" width="40" /></a>
 <a href="https://medium.com/@tanujgarg97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanujgarg97" height="30" width="40" /></a>
 </p>
 
