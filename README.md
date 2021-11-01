@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thisistanujgarg" target="blank"><img src="https://img.shields.io/twitter/follow/thisistanujgarg?logo=twitter&style=for-the-badge" alt="thisistanujgarg" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Micro-frontend, Blockchain**
+- 🌱 I’m currently learning **Go, Rust, Micro-frontend, Blockchain**
 
 - 💬 Ask me about **JavaScript, Cloud Computing, Python, DevOps**
 
