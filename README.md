@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Cloud Computing, Python, DevOps**
 
-- 📫 How to reach me **mailtotanujgarg@gmail.com**
+- 📫 How to reach me **mailtotanujgarg@gmail.com** or WhatsApp me <a href="https://wa.me/919996629961?text=Hello Tanuj, I found you on GitHub">+919996629961</a>
 
 - ⚡ Fun fact **I think I'm funny**
 
