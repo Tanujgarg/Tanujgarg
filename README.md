@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanuj Garg</h1>
-<h3 align="center">Senior Software Engineer - Full Stack | DevOps Engineer | Solutions Architect</h3>
+<h3 align="center">🚀 I Build Scalable Tech Products & Help Businesses Succeed</h3>
+<h4 align="center">💡 Software Engineer | Solutions Architect | Tech Advisor | DevOps Expert</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujgarg&label=Profile%20views&color=0e75b6&style=flat" alt="tanujgarg" /> </p> -->
 
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, Cloud Computing, Python, DevOps**
 
-- 📫 How to reach me **mailtotanujgarg@gmail.com** or WhatsApp me <a href="https://wa.me/919996629961?text=Hello Tanuj, I found you on GitHub">+919996629961</a>
+- 📫 How to reach me **mailtotanujgarg@gmail.com** or WhatsApp me <a href="https://wa.me/919996629961?text=Hello Tanuj, I found you on GitHub">+919996629961</a> (https://www.tanujgarg.com/)
 
 - ⚡ Fun fact **I think I'm funny**
 
